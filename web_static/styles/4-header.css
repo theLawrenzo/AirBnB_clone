@@ -1,0 +1,11 @@
+header {
+	background-color: #FFFFFF;
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px #CCCCCC solid;
+}
+
+img#icon {
+	padding-left: 20px;
+	align-items: left;
+}
